@@ -1,0 +1,4 @@
+project: saml
+target: saml-saml-xmlenc-fuzz
+cmds:
+  - cmd: ./xmlenc-fuzz.libfuzzer
